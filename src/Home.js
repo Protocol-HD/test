@@ -7,7 +7,7 @@ function Home() {
     return (
         <div>
             {num}
-            <br/>1
+            <br/>
             <button onClick={() => setNum(num + 1)}>click</button>
         </div>
     );
