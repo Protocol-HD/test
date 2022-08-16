@@ -8,7 +8,7 @@ function Home() {
         <div>
             {num}
             <br/>
-            <button onClick={() => setNum(num + 1)}>click!!</button>
+            <button onClick={() => setNum(num + 1)}>click!</button>
         </div>
     );
 }
